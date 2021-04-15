@@ -51,7 +51,6 @@
 
 ![Product Name Screen Shot][product-screenshot]
 ![Product Name Screen Shot][product-screenshot1]
-![Product Name Screen Shot][product-screenshot2]
 The project focuses on different algorithms that generates mazes.
 
 Functionalities:
